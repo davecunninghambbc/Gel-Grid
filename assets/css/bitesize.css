@@ -3,5 +3,6 @@
      * Grid containing element
      */
 .gel-wrap {
-  background:red;
+
+  border:1px solid red;
 }
